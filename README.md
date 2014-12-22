@@ -32,7 +32,10 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A new ballad, containing a communication between the carefull wife, and the comfortable husb[and] to
+
+1. A new Ballad, containing a communication between the carefull Wife, and the comfortable Husb touching the common cares and charges of House-hold.
+
+The comfortable Husband.WIfe, as wee get little, so temper our dyet,With any small morsell to live a
 **Types of content**
 
   * There are 80 **verse** lines!
